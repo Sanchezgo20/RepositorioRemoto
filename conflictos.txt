@@ -1,1 +1,2 @@
-Este es un contenido para hacer pruebas. Ya modificamos 3 veces
+Este es un contenido para hacer pruebas. 
+Cambios a partir del punto 7 en la actividad.Ya modificamos 3 veces
