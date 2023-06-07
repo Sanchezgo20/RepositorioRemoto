@@ -1,1 +1,2 @@
 Este es un contenido para hacer pruebas. 
+Cambios a partir del punto 7 en la actividad.
